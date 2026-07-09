@@ -5,6 +5,6 @@
 
 - Play: https://nananet.github.io/magical-bakery-online/
 - ローカル同席プレイ: `/?local=1`（サーバ不要）
-- オンライン対戦はロビーで対戦サーバ host を指定してください（準備中）
+- オンライン対戦対応済み（対戦サーバ: Cloudflare Workers）
 
 This is an unofficial fan adaptation. Will be taken down promptly upon request from the rights holder.
