@@ -1,6 +1,6 @@
 # magical-bakery-online
 
-ボードゲーム「まじかる☆ベーカリー」の非公式ファンメイド・オンライン版（趣味プロジェクト）です。
+非公式ファンメイド・オンライン版（趣味プロジェクト）です。
 権利者様からのご要請があれば速やかに取り下げます。
 
 - Play: https://nananet.github.io/magical-bakery-online/
